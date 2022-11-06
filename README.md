@@ -23,7 +23,7 @@ https://vercel.com/dersondawson/plat-dio-derson-dawson-master/9Y14eDrSKPSxxn84DH
 
 Replicando a pagina inicial da DIO
 
-Abra o terminal e digite: git clone https://github.com/DersonDawson/wikiHubDersonDawson-master
+Abra o terminal e digite: git clone https://github.com/DersonDawson/platDIO-DersonDawson-master
 
 Agora que você clonou o projeto para o seu computador, será necessário instalar todas as dependências para a aplicação rodar diretamente no localhost. Para isso, digite o comando abaixo e espere a instalação terminar: yarn
 
